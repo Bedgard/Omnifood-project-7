@@ -28,7 +28,6 @@ Omnifood is a fictional AI-powered food delivery service that creates personaliz
 - CSS3 (including Flexbox and Grid)
 - JavaScript (ES6)
 - Responsive Web Design
-- Git & GitHub
 
 ## Features
 
@@ -43,17 +42,3 @@ Omnifood is a fictional AI-powered food delivery service that creates personaliz
 - Basic contact form structure
 - Accessibility improvements (ARIA labels, keyboard support)
 
-## Lessons Learned
-
-- Building layouts with CSS Grid and Flexbox
-- Creating responsive designs that adapt to all devices
-- Adding interactivity without using frameworks
-- Writing reusable and organized CSS
-- Enhancing accessibility and page performance
-
-## Possible Improvements
-
-- Connect form to a back-end service
-- Add animations and micro-interactions
-- Introduce real dynamic content via an API
-- Add a blog or news section
