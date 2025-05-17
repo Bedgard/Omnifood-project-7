@@ -1,5 +1,11 @@
 # Omnifood – AI-Powered Food Subscription Service
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" />
+</p>
+
 Omnifood is a fictional AI-powered food delivery service that creates personalized meal plans based on user preferences. This project presents a fully responsive landing page, showcasing modern HTML5, CSS3, and JavaScript development practices.
 
 ## Project Overview
