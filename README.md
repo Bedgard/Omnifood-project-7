@@ -6,6 +6,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="80" />
 </p>
 
+https://bedgard.github.io/Omnifood-project-7/
+
 Omnifood is a fictional AI-powered food delivery service that creates personalized meal plans based on user preferences. This project presents a fully responsive landing page, showcasing modern HTML5, CSS3, and JavaScript development practices.
 
 ## Project Overview
