@@ -13,7 +13,6 @@ Omnifood is a fictional AI-powered food delivery service that creates personaliz
 - Project: Omnifood Landing Page
 - Type: Front-end development
 - Goal: Build a modern, responsive website with clean structure and interactivity
-- Live Demo: [Insert your GitHub Pages link here]
 
 ## Objectives
 
